@@ -1,0 +1,11 @@
+Technologies used: 
+
+1- ReactJS
+
+2- NodeJS
+
+3- ExpressJs
+
+4- Firebase
+
+5- Postman 
